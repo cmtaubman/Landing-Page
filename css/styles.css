@@ -9,6 +9,23 @@ html {
     height:100%;
 }
 
+/* CARMEN'S CSS STUFF ----------------------------------
+--------------------------------------------------------*/
+
+#logo {
+    font-family: "Didact Gothic";
+    color:#fff;
+    font-size: 48px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.4px;
+
+}
+
+
+/* REST OF CSS TEMPLATE ----------------------------------
+--------------------------------------------------------*/
 body {
     font-family: 'open_sanslight', sans-serif;
     color: #fff;
